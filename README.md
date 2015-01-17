@@ -3,7 +3,9 @@ A scribble painting app.
 
 
 # License
+
 The MIT License (MIT)
+
 Copyright (c) 2015 suxinde2009 (Email: suxinde2009@126.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
